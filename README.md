@@ -1,6 +1,6 @@
 # Vite React Tailwind Template
 
-Vite React Tailwind CSS starter project (with Vite, Typescript, ESLint, Sass)
+Vite React Tailwind CSS starter project (with Vite, Typescript, ESLint, Prettier, Sass)
 
 ## Quick Start using degit
 
@@ -29,7 +29,7 @@ npm run dev
 - Tailwind
 - Typescript
 - ESLint
-- Prettier (I've added a .prettierrc file with my personal settings but I've not added prettier as a dependency since I just use the prettier extension in VSCode)
+- Prettier
 - Sass
 
 ## Recreate this template from scratch
